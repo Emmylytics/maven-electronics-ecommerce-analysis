@@ -25,7 +25,3 @@ The goal is to transform raw transactional data into actionable insights that su
 * A small number of products drive a large share of total revenue.
 * Returning customers contribute significantly to overall sales.
 * Certain regions and stores outperform others in revenue generation.
-
-## Dashboard Preview
-
-*(Add dashboard screenshots here)*
